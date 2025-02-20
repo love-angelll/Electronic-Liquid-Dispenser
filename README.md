@@ -22,18 +22,44 @@ Flowmatic — это автоматический дозатор жидкост�
 
 > Flowmatic (Наливатор) основан на проекте Алекса Гайвера, подробности которого можно узнать в его видео и иных его источниках:
 
-##### 👨🏻‍💻 YouTube Chanel: Алекс Гайвер | Alex Gyver.
-[https://youtube.com/@alexgyvershow](https://youtube.com/@alexgyvershow)
 
-##### 🎥 YouTube: Наливатор Алекса Гайвера | Alex Gyver.
-[https://www.youtube.com/watch?v=VNx4pFdzfI4](https://www.youtube.com/watch?v=VNx4pFdzfI4)
+<h5>👨🏻‍💻 YouTube Chanel: Алекс Гайвер | Alex Gyver.</h5>
+<a href="https://youtube.com/@alexgyvershow" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube Channel">
+</a>
 
-##### Официальный сайт проекта "Наливатор" AlexGyver
-[https://alexgyver.ru/gyverdrink/](https://alexgyver.ru/gyverdrink/)
-##### Репозиторий на GitHub с исходным кодом и схемами
-[https://github.com/AlexGyver/GyverDrink/](https://github.com/AlexGyver/GyverDrink/)
-##### Обсуждение проекта на форуме AlexGyver Community.
-[https://community.alexgyver.ru/threads/der-nalivator-modificirovannaja-versija-gyverdrink.4021/](https://community.alexgyver.ru/threads/der-nalivator-modificirovannaja-versija-gyverdrink.4021/)
+<h5>🎥 YouTube: Наливатор Алекса Гайвера | Alex Gyver.</h5>
+<a href="https://www.youtube.com/watch?v=VNx4pFdzfI4" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Наливатор-red?style=for-the-badge&logo=youtube" alt="YouTube Nalivator">
+</a>
+
+<h5>🛠 Официальный сайт проекта "Наливатор" AlexGyver</h5>
+<a href="https://alexgyver.ru/gyverdrink/" target="_blank">
+  <img src="https://img.shields.io/badge/Site-Наливатор-blue?style=for-the-badge&logo=google-chrome" alt="Nalivator Site">
+</a>
+
+<h5>📂 Репозиторий на GitHub с исходным кодом и схемами</h5>
+<a href="https://github.com/AlexGyver/GyverDrink/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Проект-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+</a>
+
+<h5>🗨️ Обсуждение проекта на форуме AlexGyver Community</h5>
+<a href="https://community.alexgyver.ru/threads/der-nalivator-modificirovannaja-versija-gyverdrink.4021/" target="_blank">
+  <img src="https://img.shields.io/badge/Forum-Обсуждение-blue?style=for-the-badge&logo=google-chrome" alt="Forum">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 🏰 Список комплектующих
