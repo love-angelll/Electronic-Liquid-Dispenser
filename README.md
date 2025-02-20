@@ -22,17 +22,17 @@ Flowmatic — это автоматический дозатор жидкост�
 
 > Flowmatic (Наливатор) основан на проекте Алекса Гайвера, подробности которого можно узнать в его видео и иных его источниках:
 
-👨🏻‍💻 YouTube Chanel: Алекс Гайвер | Alex Gyver.
+##### 👨🏻‍💻 YouTube Chanel: Алекс Гайвер | Alex Gyver.
 [https://youtube.com/@alexgyvershow](https://youtube.com/@alexgyvershow)
 
-🎥 YouTube: Наливатор Алекса Гайвера | Alex Gyver.
+##### 🎥 YouTube: Наливатор Алекса Гайвера | Alex Gyver.
 [https://www.youtube.com/watch?v=VNx4pFdzfI4](https://www.youtube.com/watch?v=VNx4pFdzfI4)
 
-- Официальный сайт проекта "Наливатор" AlexGyver
+##### Официальный сайт проекта "Наливатор" AlexGyver
 [https://alexgyver.ru/gyverdrink/](https://alexgyver.ru/gyverdrink/)
-- Репозиторий на GitHub с исходным кодом и схемами
+##### Репозиторий на GitHub с исходным кодом и схемами
 [https://github.com/AlexGyver/GyverDrink/](https://github.com/AlexGyver/GyverDrink/)
-- Обсуждение проекта на форуме AlexGyver Community.
+##### Обсуждение проекта на форуме AlexGyver Community.
 [https://community.alexgyver.ru/threads/der-nalivator-modificirovannaja-versija-gyverdrink.4021/](https://community.alexgyver.ru/threads/der-nalivator-modificirovannaja-versija-gyverdrink.4021/)
 
 
