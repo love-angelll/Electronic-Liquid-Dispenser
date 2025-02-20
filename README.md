@@ -152,6 +152,9 @@ Electronic Liquid Dispenser представляет собой автомати
   © Иван Фрунза
 </p>
 <p align="center">
+  © AlexGyver
+</p>
+<p align="center">
   © Electronic Liquid Dispenser
 </p>
 
