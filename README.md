@@ -1,11 +1,9 @@
-# Flowmatic
+# Flowmatic — электронный дозатор жидкости
 
 <!-- фото проекта -->
 ![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/bg.png )
 
 ###### от «flow» (поток) и «automatic» (автоматический).  
-
-## Flowmatic — электронный дозатор жидкости
 
 Flowmatic — это автоматический дозатор жидкости, основанный на известном проекте Алекса Гайвера — наливаторе. 
 
