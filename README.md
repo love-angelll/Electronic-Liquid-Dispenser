@@ -43,6 +43,14 @@ Flowmatic — это автоматический дозатор жидкост�
   <h6>Схема, по которой было все сделано.</h6>
 </div> 
 
+### 📷 Фото моего готового проекта
+
+<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px;">
+  <img src="https://link-to-your-image1.jpg" style="width: 100%; height: auto; flex-shrink: 0; scroll-snap-align: start;">
+  <img src="https://link-to-your-image2.jpg" style="width: 100%; height: auto; flex-shrink: 0; scroll-snap-align: start;">
+  <img src="https://link-to-your-image3.jpg" style="width: 100%; height: auto; flex-shrink: 0; scroll-snap-align: start;">
+</div> 
+
 
 
 
