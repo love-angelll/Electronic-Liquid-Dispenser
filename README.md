@@ -45,11 +45,7 @@ Flowmatic — это автоматический дозатор жидкост�
 
 ### 📷 Фото моего готового проекта
 
-<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px;">
-  <img src="https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg" style="width: 100%; height: auto; flex-shrink: 0; scroll-snap-align: start;">
-  <img src="https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg" style="width: 100%; height: auto; flex-shrink: 0; scroll-snap-align: start;">
-  <img src="https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg" style="width: 100%; height: auto; flex-shrink: 0; scroll-snap-align: start;">
-</div> 
+![Карусель](https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg) 
 
 
 
