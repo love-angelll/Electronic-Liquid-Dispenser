@@ -25,19 +25,19 @@ Flowmatic — это автоматический дозатор жидкост�
 
 <div align="center">
   <a href="https://youtube.com/@alexgyvershow" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/YouTube-Канал-red?style=for-the-badge&logo=youtube" alt="YouTube Channel">
   </a>
   
   <a href="https://www.youtube.com/watch?v=VNx4pFdzfI4" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Наливатор-red?style=for-the-badge&logo=youtube" alt="YouTube Nalivator">
   </a>
   
-  <a href="https://alexgyver.ru/gyverdrink/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-Наливатор-blue?style=for-the-badge&logo=google-chrome" alt="Nalivator Site">
-  </a>
-  
   <a href="https://github.com/AlexGyver/GyverDrink/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Проект-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+
+  <a href="https://alexgyver.ru/gyverdrink/" target="_blank">
+    <img src="https://img.shields.io/badge/Site-Наливатор-blue?style=for-the-badge&logo=google-chrome" alt="Nalivator Site">
   </a>
   
   <a href="https://community.alexgyver.ru/threads/der-nalivator-modificirovannaja-versija-gyverdrink.4021/" target="_blank">
