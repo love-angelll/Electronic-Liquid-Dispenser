@@ -2,6 +2,7 @@
 > от «flow» (поток) и «automatic» (автоматический). 
 
 <!-- фото проекта -->
+![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/bg.png )
 
 ## Flowmatic — электронный дозатор жидкости
 
