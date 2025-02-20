@@ -38,7 +38,7 @@ Flowmatic — это автоматический дозатор жидкост�
 
 ### 🗺️ Схема проекта
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg" alt="sheme">
   <h6>Схема, по которой было все сделано.</h6>
 </div> 
