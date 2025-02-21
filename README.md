@@ -1,6 +1,7 @@
 <!-- фото проекта -->
 ![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/bg.png )
-# Electronic Liquid Dispenser | Электронный дозатор жидкости 
+# Electronic Liquid Dispenser
+# Электронный дозатор жидкости 
 
 Electronic Liquid Dispenser — это автоматический дозатор жидкости, основанный на известном проекте [Алекса Гайвера](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alexgyver.ru/about_gyver/&ved=2ahUKEwi2q-HMqdOLAxXq9QIHHc0FFR0QFnoECCYQAQ&usg=AOvVaw1rDqv2uakHtufNj98641UN)' — наливаторе. Этот репозиторий был создан в рамках моей дипломной работы по специальности «[Техническое обслуживание и ремонт радиоэлектронной аппаратуры](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ttiip.ru/technik_2110202.html&ved=2ahUKEwibq_acqdOLAxUN-AIHHZ_fA44QFnoECB0QAQ&usg=AOvVaw1QHKlo13XkNP1YWU1fiTzu )'» в [Тираспольском Техникуме Информатики и Права](https://ttiip.ru/index.php)'.
 
