@@ -106,7 +106,7 @@
 ### 📷 Фото готового проекта в корпусе
 
 <div align="center">
-  <img src=https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/korp.jpg" alt="korp">
+  <img src=https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project-Files/korp.jpg" alt="korp">
 </div> 
 
 
