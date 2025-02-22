@@ -17,7 +17,7 @@
 
 
 
-# Электронный дозатор жидкости [RU]
+# Electronic liquid dispenser [EN]
 
 ### 📃 Short description
 
