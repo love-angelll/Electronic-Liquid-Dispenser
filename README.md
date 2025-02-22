@@ -1,5 +1,5 @@
 <!-- Начало README.md файла (RU версия) -->
-![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/bgg.png )
+![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/ru-bg.png )
 
 # Электронный дозатор жидкости [RU]
 
