@@ -1,5 +1,5 @@
 <!-- Начало README.md файла (RU версия) -->
-![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/bgg.png )
+![bg](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/img/bgg.png )
 
 # Электронный дозатор жидкости 
 
@@ -99,14 +99,14 @@
 ### 🗺️ Схема проекта
 
 <div align="center">
-  <img src="https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg" alt="sheme">
+  <img src="https://github.com/love-angelllElectronic-Liquid-Dispenser/blob/main/Project%20Files/sheme.jpg" alt="sheme">
   <h6>Electronic liquid dispenser Sheme</h6>
 </div> 
 
 
 ### 📷 Фото готового проекта в корпусе
 
-![Корпус](https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/korp.jpg) 
+![Корпус](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/korp.jpg) 
 
 
 
