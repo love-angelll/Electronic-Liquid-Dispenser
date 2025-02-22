@@ -105,11 +105,9 @@ This project was created as part of a thesis and is aimed at practical applicati
   <h6>Electronic liquid dispenser Scheme</h6>
 </div>
 
-<!--
-### 📷 Photos of My Completed Project
+### 📷 Photo of the finished project in the building 
 
-![Carousel](https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg) 
--->
+![korp](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/korp.jpg) 
 
 <!-- Official Sources and License -->
 
