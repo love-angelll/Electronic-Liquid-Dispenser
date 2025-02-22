@@ -11,7 +11,7 @@
 
 [![Читать на русском](https://img.shields.io/badge/Читать-на_русском-blue?style=for-the-badge)](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/README-RU.md)  
 
-### 🎓 Студент работающий над проектом
+#### 🎓 Студент работающий над проектом
 
 Фрунза Иван Александрович — 415 группа
 
@@ -27,7 +27,7 @@ The electronic liquid dispenser is an automated device that precisely controls t
 
 [![Read in English](https://img.shields.io/badge/Read-in_English-blue?style=for-the-badge)](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/README-EN.md)
 
-### 🎓 Student working on a project
+#### 🎓 Student working on a project
 
 Frunza Ivan Alexandrovich – group 415 
 
