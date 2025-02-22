@@ -99,7 +99,7 @@
 ### 🗺️ Схема проекта
 
 <div align="center">
-  <img src="https://github.com/love-angelllElectronic-Liquid-Dispenser/blob/main/Project%20Files/sheme.jpg" alt="sheme">
+  <img src="https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/sheme.jpg" alt="sheme">
   <h6>Electronic liquid dispenser Sheme</h6>
 </div> 
 
