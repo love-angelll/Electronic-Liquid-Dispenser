@@ -9,7 +9,7 @@
 
 ### Подробнее 
 
-[![Open Another README](https://img.shields.io/badge/Open-Another%20README-blue?style=for-the-badge)](ссылка_на_другой_README.md)
+[![Open Another README](https://img.shields.io/badge/Open-README-RU.md%20README-blue?style=for-the-badge)](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/README-RU.md)
 
 ### 🎓 Студент работающий над проектом
 
