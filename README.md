@@ -30,6 +30,3 @@ The electronic liquid dispenser is an automated device that precisely controls t
 
 - ###### Frunza Ivan Alexandrovich – group 415 
 
-![bg](https://github.com/love-angelll/Flowmatic/blob/main/img/en-bg.png )
-
-
