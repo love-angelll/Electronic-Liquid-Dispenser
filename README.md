@@ -9,7 +9,7 @@
 
 ### Подробнее 
 
-[![Open Another README](https://img.shields.io/badge/Open-README-RU.md%20-blue?style=for-the-badge)](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/README-RU.md)
+[![Читать на русском](https://img.shields.io/badge/Читать-на_русском-blue?style=for-the-badge)](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/README-RU.md)  
 
 ### 🎓 Студент работающий над проектом
 
@@ -25,7 +25,7 @@ The electronic liquid dispenser is an automated device that precisely controls t
 
 ### Read more  
 
-[![Open Another README](https://img.shields.io/badge/Open-Another%20README-blue?style=for-the-badge)](ссылка_на_другой_README.md)
+[![Read in English](https://img.shields.io/badge/Read-in_English-blue?style=for-the-badge)](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/README-EN.md)
 
 ### 🎓 Student working on a project
 
