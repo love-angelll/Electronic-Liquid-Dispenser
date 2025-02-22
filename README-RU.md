@@ -100,13 +100,14 @@
 
 <div align="center">
   <img src="https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/sheme.jpg" alt="sheme">
-  <h6>Electronic liquid dispenser Sheme</h6>
 </div> 
 
 
 ### 📷 Фото готового проекта в корпусе
 
-![Корпус](https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/korp.jpg) 
+<div align="center">
+  <img src=https://github.com/love-angelll/Electronic-Liquid-Dispenser/blob/main/Project%20Files/korp.jpg" alt="korp">
+</div> 
 
 
 
