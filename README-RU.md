@@ -103,11 +103,11 @@
   <h6>Electronic liquid dispenser Sheme</h6>
 </div> 
 
-<!--
-### 📷 Фото моего готового проекта
 
-![Карусель](https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/sheme.jpg) 
--->
+### 📷 Фото готового проекта в корпусе
+
+![Корпус](https://github.com/love-angelll/Flowmatic/blob/main/Project%20Files/korp.jpg) 
+
 
 
 <!-- Официальные источники и лицензия -->
